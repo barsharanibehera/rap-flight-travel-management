@@ -1,1 +1,1 @@
-Project Screenshots
+Create screenshots folder
