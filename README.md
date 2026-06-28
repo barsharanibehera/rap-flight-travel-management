@@ -1,36 +1,37 @@
 # SAP RAP Travel Management Application
 
+## Overview
+
+This project demonstrates the development of a draft-enabled SAP Fiori Elements application using the ABAP RESTful Application Programming Model (RAP).
+
+The application enables users to create, update, validate, and manage travel records through a modern SAP Fiori user interface while leveraging RAP managed business objects and OData V4 services.
+
 ## Business Scenario
 
-This project demonstrates the development of a draft-enabled SAP Fiori Elements application for managing travel and booking records using the ABAP RESTful Application Programming Model (RAP).
+A travel management department requires a modern application to manage travel requests and bookings efficiently.
 
-The application allows users to create, modify, and manage travel information through a modern SAP Fiori user interface while supporting draft processing and transactional consistency.
-
-
+The solution provides draft-enabled transactional processing, business validations, custom actions, and authorization checks through a SAP Fiori Elements user experience.
 
 ## Technology Stack
 
 * SAP S/4HANA
-* ABAP RESTful Application Programming Model (RAP)
-* Core Data Services (CDS)
+* ABAP RAP
+* CDS Views
 * OData V4
 * SAP Fiori Elements
 * SAP HANA
 * Eclipse ADT
 
-
-
-## Highlights
+## Key Features
 
 * Draft-enabled transactional processing
 * Travel and booking management
 * SAP Fiori Elements List Report and Object Page
-* OData V4 service exposure
+* Custom actions (Accept Travel / Reject Travel)
 * Business validations and determinations
 * Authorization checks
-* End-to-end CRUD operations using RAP
-
-
+* OData V4 service exposure
+* End-to-end CRUD operations
 
 ## Architecture
 
@@ -46,44 +47,45 @@ Behavior Layer
 
 ↓
 
-OData V4 Service
+OData V4 Services
 
 ↓
 
 SAP Fiori Elements Application
 
+## Application Screenshots
 
+### Package Structure
 
-## Screenshots
+(Add screenshot)
 
 ### Travel List Report
 
-(Add screenshot here)
+(Add screenshot)
 
 ### Travel Object Page
 
-(Add screenshot here)
+(Add screenshot)
 
 ### Draft Processing
 
-(Add screenshot here)
+(Add screenshot)
 
+### Validation Example
 
+(Add screenshot)
 
 ## Key Learnings
 
-* RAP business object development
-* CDS data modeling
-* OData V4 service exposure
-* Draft handling in RAP
-* SAP Fiori Elements development
-* Authorization and validation implementation
-
-
+* RAP Business Object Development
+* CDS Data Modeling
+* OData V4 Service Exposure
+* Draft Handling
+* Authorization Management
+* Enterprise Application Design
 
 ## Author
 
 Barsharani Behera
 
-SAP ABAP Developer | RAP | CDS Views | SAP Fiori | SAP HANA
-
+SAP ABAP Developer | RAP | SAP Fiori | CDS Views | SAP HANA
