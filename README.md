@@ -61,7 +61,7 @@ SAP Fiori Elements Application
 
 ### Travel List Report
 
-(Add screenshot)
+![Travel List Report](screenshots/list-report.png)
 
 ### Travel Object Page
 
