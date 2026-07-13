@@ -54,26 +54,31 @@ OData V4 Services
 SAP Fiori Elements Application
 
 ## Application Screenshots
+## Application Screenshots
 
-### Package Structure
+### List Report
 
-(Add screenshot)
+![List Report](screenshots/list-report.png)
 
-### Travel List Report
+### Create Travel
 
-![Travel List Report](screenshots/list-report.png)
-
-### Travel Object Page
-
-(Add screenshot)
-
-### Draft Processing
-
-(Add screenshot)
+![Create Travel](screenshots/create-travel.png)
 
 ### Validation Example
 
-(Add screenshot)
+![Validation](screenshots/validation-error.png)
+
+### Travel Object Page
+
+![Object Page](screenshots/travel-object-page.png)
+
+### Accept Travel Action
+
+![Accept Travel](screenshots/accept-travel.png)
+
+### Reject Travel Action
+
+![Reject Travel](screenshots/reject-travel.png)
 
 ## Key Learnings
 
