@@ -58,27 +58,32 @@ SAP Fiori Elements Application
 ### List Report
 
 ![List Report](screenshots/list-report.png)
-
+_ _ _ _
 ### Create Travel
 
 ![Create Travel](screenshots/create-travel.png)
 
+_ _ _ _
 ### Validation Example
 
 ![Validation](screenshots/validation-error.png)
 
+_ _ _ _
 ### Travel Object Page
 
 ![Object Page](screenshots/travel-object-page.png)
 
+_ _ _ _
 ### Accept Travel Action
 
 ![Accept Travel](screenshots/accept-trave.png)
 
+_ _ _ _
 ### Reject Travel Action
 
 ![Reject Travel](screenshots/reject-travel.png)
 
+_ _ _ _
 ## Key Learnings
 
 * RAP Business Object Development
