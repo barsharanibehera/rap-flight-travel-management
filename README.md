@@ -37,19 +37,19 @@ The solution provides draft-enabled transactional processing, business validatio
 
 Database Tables
 
-     ↓
+↓
 
 CDS Data Model
 
-     ↓
+↓
 
 Behavior Layer
 
-     ↓
+↓
 
 OData V4 Services
 
-     ↓
+↓
 
 SAP Fiori Elements Application
 
