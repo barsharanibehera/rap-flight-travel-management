@@ -37,23 +37,22 @@ The solution provides draft-enabled transactional processing, business validatio
 
 Database Tables
 
-↓
+     ↓
 
 CDS Data Model
 
-↓
+     ↓
 
 Behavior Layer
 
-↓
+     ↓
 
 OData V4 Services
 
-↓
+     ↓
 
 SAP Fiori Elements Application
 
-## Application Screenshots
 ## Application Screenshots
 
 ### List Report
@@ -74,7 +73,7 @@ SAP Fiori Elements Application
 
 ### Accept Travel Action
 
-![Accept Travel](screenshots/accept-travel.png)
+![Accept Travel](screenshots/accept-trave.png)
 
 ### Reject Travel Action
 
